@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "workspaces": ["packages/*"],
+  "workspaces": ["usehooks/*"],
   "keywords": [],
   "author": "",
   "license": "ISC"
